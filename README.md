@@ -1,2 +1,2 @@
 # Learn Javascript
-## https://hashnode.com/edit/cmm7hjxci00e72eoiabiccbpt 
+## [Promise with me] - [https://promiseme.hashnode.dev/make-a-promise-with-me]
